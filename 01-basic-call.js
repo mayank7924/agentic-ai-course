@@ -16,5 +16,4 @@ async function main() {
   console.log(response.message.content);
 }
 
-main()
-
+main();
